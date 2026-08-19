@@ -1,0 +1,4 @@
+# Install torch to match the pod's CUDA (see scripts/runpod_setup.sh).
+torch
+chatterbox-tts
+matplotlib
